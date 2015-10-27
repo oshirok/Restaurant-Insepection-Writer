@@ -1,0 +1,75 @@
+.numberCircleRed {
+	position: absolute;
+	top: 0px;
+	left: 175px;
+
+    border-radius: 50%;
+
+    width: 36px;
+    height: 36px;
+    padding: 8px;
+    
+    background: #fff;
+    border: 2px solid #666;
+    color: red;
+    text-align: center;
+    
+    font: 32px Arial, sans-serif;
+}
+
+.numberCircleBlue {
+	position: absolute;
+	top: 0px;
+	left: 175px;
+
+    border-radius: 50%;
+
+    width: 36px;
+    height: 36px;
+    padding: 8px;
+    
+    background: #fff;
+    border: 2px solid #666;
+    color: blue;
+    text-align: center;
+    
+    font: 32px Arial, sans-serif;
+}
+
+.numberCircleGreen {
+	position: absolute;
+	top: 0px;
+	left: 175px;
+
+    border-radius: 50%;
+
+    width: 36px;
+    height: 36px;
+    padding: 8px;
+    
+    background: #fff;
+    border: 2px solid #666;
+    color: green;
+    text-align: center;
+    
+    font: 32px Arial, sans-serif;
+}
+
+.numberCircleBlack {
+	position: absolute;
+	top: 0px;
+	left: 175px;
+
+    border-radius: 50%;
+
+    width: 36px;
+    height: 36px;
+    padding: 8px;
+    
+    background: #fff;
+    border: 2px solid #666;
+    color: black;
+    text-align: center;
+    
+    font: 32px Arial, sans-serif;
+}
